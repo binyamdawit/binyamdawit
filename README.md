@@ -8,7 +8,6 @@
 I'm a software developer with a passion for solving complex problems, I have a proven track record of delivering high-quality projects. I have a diverse skill set, including expertise in languages such as HTML, CSS, JavaScript, as well as frameworks such as React. I am comfortable working in both front-end and back-end development, and have a strong understanding of database design and implementation. I am a highly motivated and adaptable team player, able to work effectively in both solo and collaborative environments.
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
 
