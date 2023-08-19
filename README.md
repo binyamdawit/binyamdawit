@@ -1,7 +1,7 @@
-# <samp>&gt; Hi there, I'm <a href="https://binyamportfolio.netlify.app/" target="_blank">Binyam Dawit</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp>👨‍💻
+# <samp>&gt; Hi there, I'm <a href="https://web-portfolio-five-gamma.vercel.app/" target="_blank">Binyam Dawit</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp>👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/binyamdawit1/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]([https://web-portfolio-five-gamma.vercel.app/])
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://web-portfolio-five-gamma.vercel.app/)
 ### Awesome to have you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=binyamdawit.visitor-badge)
 
 <p>
